@@ -6,6 +6,7 @@ __pycache__/
 
 # checkpoint files
 output/
+att_classification/
 
 *.pyc
 *.sh
