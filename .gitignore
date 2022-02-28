@@ -5,7 +5,8 @@ __pycache__/
 */*/*/*/__pycache__/
 
 # checkpoint files
-output/
+output/128.tar.gz
+output/128/checkpoints
 att_classification/
 
 *.pyc
